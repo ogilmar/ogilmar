@@ -1,8 +1,6 @@
-### Olá eu sou o Gilmar 👋
+### Olá eu sou o Gilmar
 
-- 🔭 Atualmente trabalho com Consultoria Estatística e Acadêmica
-- 🌱 Atualmente estou aprendendo Python e Big Data
-- 😄 Pronomes: Ele/Él/Him 
+- Pronomes: Ele/Él/Him 
 
 <div>
   <a href="https://github.com/ogilmar">
@@ -25,8 +23,4 @@
   <a href = "mailto:jgilmar.souza@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jgilmarsouza" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
   
- 
