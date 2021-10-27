@@ -8,12 +8,6 @@
 
 <div>
   <a href="https://github.com/ogilmar">
-</div>
-
-##
-
-<div>
-  <a href="https://github.com/ogilmar">
 </div><div align="center">
   <a href="https://github.com/ogilmar">
 
