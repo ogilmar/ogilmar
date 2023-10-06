@@ -2,9 +2,9 @@
 
 ##
 
-Ciência de dados 
-Pesquisa e Desenvolvimento (P&D)
-Business Intelligence (BI)
+Ciência de dados, 
+Pesquisa e Desenvolvimento (P&D),
+Business Intelligence (BI).
 
 ##
 
